@@ -26,6 +26,12 @@ Include test unitari con JUnit 5 e Mockito seguendo le buone pratiche dello svil
 
 🔗 [Vai al repository](https://github.com/HeFeBo/api-bank) 
 
+### 🚀 Sudoku Solver API — Backend intelligente con Spring Boot
+API REST sviluppata in Java 21 + Spring Boot che modella, inizializza e risolve griglie Sudoku con logica algoritmica su database MySQL.
+Include endpoint pronti per l’integrazione, validazioni input e un’architettura pulita a livelli (controller/service/repository).
+
+🔗 [Vai al repository](https://github.com/HeFeBo/sudoku-solver) 
+
 ---
  
 ## 📫 Contatti
