@@ -25,6 +25,7 @@ Implementa un’architettura a livelli, validazioni di business, gestione global
 Include test unitari con JUnit 5 e Mockito seguendo le buone pratiche dello sviluppo backend.
 
 🔗 [Vai al repository](https://github.com/HeFeBo/api-bank) 
+
 ---
  
 ## 📫 Contatti
