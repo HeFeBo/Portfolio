@@ -32,6 +32,17 @@ Include endpoint pronti per l’integrazione, validazioni input e un’architett
 
 🔗 [Vai al repository](https://github.com/HeFeBo/sudoku-solver) 
 
+### ⚔️ Invasion V2 — Backend intelligente con WebSocket e Spring Boot
+API backend sviluppata in Java 21 + Spring Boot per un gioco di strategia spaziale, con logica di dominio avanzata,
+persistenza su MySQL e aggiornamenti in tempo reale tramite WebSocket.
+
+Il progetto gestisce il flusso principale del gioco con creazione del Leader iniziale, colonizzazione differita dei
+pianeti, potenziamento di strutture e ricerche, il tutto con un’architettura pulita a livelli e pronta per
+l’integrazione.
+
+🔗 [Vai al repository](https://github.com/HeFeBo/space-invasion)
+
+
 ---
  
 ## 📫 Contatti
